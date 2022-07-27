@@ -1,5 +1,10 @@
 # Jovy_ira-2-weather-dashboard
 
+#github pages:
+#github link:
+#screenshots:
+#demo:
+
 # 06 Server-Side APIs: Weather Dashboard
 
 ## Your Task
