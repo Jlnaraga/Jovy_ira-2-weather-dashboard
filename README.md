@@ -1,9 +1,11 @@
 # Jovy_ira-2-weather-dashboard
 
-#github pages:
-#github link:
-#screenshots:
-#demo:
+[GitHub Link](https://github.com/Jlnaraga/Jovy_ira-2-weather-dashboard.git)
+[GitHub Pages](https://jlnaraga.github.io/Jovy_ira-2-weather-dashboard/)
+[Responsive View](./assets/screenshots/jlnaraga.github.io_Jovy_ira-2-weather-dashboard_(iPad%20Air)%20responsive.png)
+[Desktop View](./assets/screenshots/jlnaraga.github.io_Jovy_ira-2-weather-dashboard_fullscreen_shot.png)
+[Demo](./assets/screenshots/weather_2_demo.gif)
+
 
 # 06 Server-Side APIs: Weather Dashboard
 
